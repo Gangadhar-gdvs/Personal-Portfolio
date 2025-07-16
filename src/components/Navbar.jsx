@@ -10,6 +10,7 @@ const Navbar = ({ isSticky, isMenuActive, toggleMenu, handleMenuItemClick }) => 
         <ul className={`menu ${isMenuActive ? 'active' : ''}`}>
           <li><a href="#home" className="menu-btn" onClick={handleMenuItemClick}>Home</a></li>
           <li><a href="#about" className="menu-btn" onClick={handleMenuItemClick}>About</a></li>
+           <li><a href="#experience" className="menu-btn" onClick={handleMenuItemClick}>Experience</a></li>
           <li><a href="#projects" className="menu-btn" onClick={handleMenuItemClick}>Projects</a></li>
           <li><a href="#works" className="menu-btn" onClick={handleMenuItemClick}>Works</a></li>
           <li><a href="#services" className="menu-btn" onClick={handleMenuItemClick}>Services</a></li>

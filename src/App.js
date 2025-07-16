@@ -9,9 +9,9 @@ import Contact from './components/Contact';
 import ScrollUpButton from './components/ScrollUpButton';
 import './styles/style.css';
 import './styles/big-circle.css';
-import Internships from './components/internships';
+import Internships from './components/works';
 // import Testimonials from './components/testimonials';
-import LatestWorks from './components/works';
+import LatestWorks from './components/experience';
 
 const App = () => {
   const [isSticky, setIsSticky] = useState(false);
