@@ -11,7 +11,7 @@ const Home = () => {
 
   useEffect(() => {
     const options = {
-      strings: ['Full Stack Developer', 'Web Designer', 'Web Developer'],
+      strings: ['Full Stack Developer', 'Mobile Application Developer', 'Web Developer'],
       typeSpeed: 20,
       backSpeed: 50,
       backDelay: 1500,
@@ -35,7 +35,7 @@ const Home = () => {
           <div className="text-1">Hello, my name is</div>
           <div className="text-2">Gangadhara Gooti</div>
           <div className="text-3">And I'm a <span className="typing"></span></div>
-          <a href="tel:+91 6300355608">Hire me</a>
+          <a href="#contact">Hire me</a>
         </div>
 
         <div className="rounding-sec">

@@ -11,7 +11,7 @@ import './styles/style.css';
 import './styles/big-circle.css';
 import Internships from './components/internships';
 // import Testimonials from './components/testimonials';
-// import LatestWorks from './components/works';
+import LatestWorks from './components/works';
 
 const App = () => {
   const [isSticky, setIsSticky] = useState(false);
@@ -47,7 +47,7 @@ const App = () => {
       />
       <Home />
       <About />
-      {/* <LatestWorks/> */}
+      <LatestWorks/>
       <Projects />
       <Internships/>
       <Services />
