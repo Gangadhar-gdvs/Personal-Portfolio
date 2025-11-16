@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import Typed from 'typed.js';
 import gmail from '../images/gmail.png';
-import profile from '../images/profile.png';
+import profile from '../images/Profile_Professional.jpg';
 import LinkedIn from '../images/LinkedIn.png';
 import github from '../images/github.png';
 import instagram from '../images/Instagram.png';
