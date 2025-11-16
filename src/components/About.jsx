@@ -1,6 +1,6 @@
 import React, {useEffect} from 'react';
 import Typed from 'typed.js';
-import profile from '../images/profile.png'
+import profile from '../images/Profile_Professional.jpg'
 const About = () => {
 
   useEffect(() => {
