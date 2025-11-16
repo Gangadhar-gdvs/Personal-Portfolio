@@ -33,7 +33,7 @@ const About = () => {
           <div className="column right">
             <div className="text">I'm Gangadhar and I'm a <span className="typing-2"></span></div>
             <p>I am a dedicated web developer with experience in real-time web application development. I have completed an internship at LearnSmaser Edutech, managed and maintained my college website, and developed a custom web application for Comfort Floors and Bathrooms Limited, Ireland, to meet their specific business needs. I aim to build impactful, user-friendly, and scalable solutions.</p>
-            <a href="https://drive.google.com/file/d/1u-vyTxB93q8KFxOXqmkwBlBtNoScTY4a/view?usp=sharing">Download CV</a>
+            <a href="https://drive.google.com/file/d/17II87o3DU8JI0LzT6W-ElN9-YTB3yFQt/view?usp=drive_link">Download CV</a>
           </div>
         </div>
       </div>
